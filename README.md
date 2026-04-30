@@ -27,31 +27,31 @@
 ## 📸 Screenshots
 
 ### Login Page
-![Login](https://github.com/Aghawafaabbass/Hyrex/raw/main/screenshots/01_Login_Page.PNG)
+![Login](https://raw.githubusercontent.com/Aghawafaabbass/Hyrex/main/screenshots/01_Login_Page.PNG)
 
 ### Register — Create Account (Candidate / Recruiter)
-![Register](https://github.com/Aghawafaabbass/Hyrex/raw/main/screenshots/02_register.PNG)
+![Register](https://raw.githubusercontent.com/Aghawafaabbass/Hyrex/main/screenshots/02_register.PNG)
 
 ### Recruiter Dashboard — My Job Postings
-![Recruiter Dashboard](https://github.com/Aghawafaabbass/Hyrex/raw/main/screenshots/03_Recruiter_Dashboard.PNG)
+![Recruiter Dashboard](https://raw.githubusercontent.com/Aghawafaabbass/Hyrex/main/screenshots/03_Recruiter_Dashboard.PNG)
 
 ### Recruiter — Browse Jobs
-![Recruiter Browse Jobs](https://github.com/Aghawafaabbass/Hyrex/raw/main/screenshots/04_Recruiter_Browse_Jobs.PNG)
+![Recruiter Browse Jobs](https://raw.githubusercontent.com/Aghawafaabbass/Hyrex/main/screenshots/04_Recruiter_Browse_Jobs.PNG)
 
 ### Candidate Login
-![Candidate Login](https://github.com/Aghawafaabbass/Hyrex/raw/main/screenshots/05_Candidate_Login.PNG)
+![Candidate Login](https://raw.githubusercontent.com/Aghawafaabbass/Hyrex/main/screenshots/05_Candidate_Login.PNG)
 
 ### Candidate Dashboard — My Applications
-![Candidate Applications](https://github.com/Aghawafaabbass/Hyrex/raw/main/screenshots/06_Candidate_My_Applications.PNG)
+![Candidate Applications](https://raw.githubusercontent.com/Aghawafaabbass/Hyrex/main/screenshots/06_Candidate_My_Applications.PNG)
 
 ### Candidate — Browse Jobs
-![Candidate Browse Jobs](https://github.com/Aghawafaabbass/Hyrex/raw/main/screenshots/07_Candidate_Browse_Jobs.PNG)
+![Candidate Browse Jobs](https://raw.githubusercontent.com/Aghawafaabbass/Hyrex/main/screenshots/07_Candidate_Browse_Jobs.PNG)
 
 ### Candidate — Applied Successfully
-![Applied Now](https://github.com/Aghawafaabbass/Hyrex/raw/main/screenshots/08_Candidate_jobs_Applied_Now.PNG)
+![Applied Now](https://raw.githubusercontent.com/Aghawafaabbass/Hyrex/main/screenshots/08_Candidate_jobs_Applied_Now.PNG)
 
 ### Django Administration Panel
-![Admin Panel](https://github.com/Aghawafaabbass/Hyrex/raw/main/screenshots/09_Django_Administration.PNG)
+![Admin Panel](https://raw.githubusercontent.com/Aghawafaabbass/Hyrex/main/screenshots/09_Django_Administration.PNG)
 
 ---
 
