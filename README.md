@@ -28,39 +28,39 @@
 
 ### Login Page
 
-[![Login](https://github.com/Aghawafaabbass/Hyrex/raw/main/screenshots/01_Login_Page.PNG)](/Aghawafaabbass/Hyrex/blob/main/screenshots/01_Login_Page.PNG)
+[![Login](https://github.com/Aghawafaabbass/Hyrex/raw/main/screenshots/01%20Login%20Page.PNG)](/Aghawafaabbass/Hyrex/blob/main/screenshots/01%20Login%20Page.PNG)
 
 ### Register — Create Account (Candidate / Recruiter)
 
-[![Register](https://github.com/Aghawafaabbass/Hyrex/raw/main/screenshots/02_register.PNG)](/Aghawafaabbass/Hyrex/blob/main/screenshots/02_register.PNG)
+[![Register](https://github.com/Aghawafaabbass/Hyrex/raw/main/screenshots/02%20register.PNG)](/Aghawafaabbass/Hyrex/blob/main/screenshots/02%20register.PNG)
 
 ### Recruiter Dashboard — My Job Postings
 
-[![Recruiter Dashboard](https://github.com/Aghawafaabbass/Hyrex/raw/main/screenshots/03_Recruiter_Dashboard.PNG)](/Aghawafaabbass/Hyrex/blob/main/screenshots/03_Recruiter_Dashboard.PNG)
+[![Recruiter Dashboard](https://github.com/Aghawafaabbass/Hyrex/raw/main/screenshots/03%20Recruiter%20Dashboard.PNG)](/Aghawafaabbass/Hyrex/blob/main/screenshots/03%20Recruiter%20Dashboard.PNG)
 
 ### Recruiter — Browse Jobs
 
-[![Recruiter Browse Jobs](https://github.com/Aghawafaabbass/Hyrex/raw/main/screenshots/04_Recruiter_Browse_Jobs.PNG)](/Aghawafaabbass/Hyrex/blob/main/screenshots/04_Recruiter_Browse_Jobs.PNG)
+[![Recruiter Browse Jobs](https://github.com/Aghawafaabbass/Hyrex/raw/main/screenshots/04%20Recruiter%20Browse%20Jobs.PNG)](/Aghawafaabbass/Hyrex/blob/main/screenshots/04%20Recruiter%20Browse%20Jobs.PNG)
 
 ### Candidate Login
 
-[![Candidate Login](https://github.com/Aghawafaabbass/Hyrex/raw/main/screenshots/05_Candidate_Login.PNG)](/Aghawafaabbass/Hyrex/blob/main/screenshots/05_Candidate_Login.PNG)
+[![Candidate Login](https://github.com/Aghawafaabbass/Hyrex/raw/main/screenshots/05%20Candidate%20Login.PNG)](/Aghawafaabbass/Hyrex/blob/main/screenshots/05%20Candidate%20Login.PNG)
 
 ### Candidate Dashboard — My Applications
 
-[![Candidate Applications](https://github.com/Aghawafaabbass/Hyrex/raw/main/screenshots/06_Candidate_My_Applications.PNG)](/Aghawafaabbass/Hyrex/blob/main/screenshots/06_Candidate_My_Applications.PNG)
+[![Candidate Applications](https://github.com/Aghawafaabbass/Hyrex/raw/main/screenshots/06%20Candidate%20My%20Applications.PNG)](/Aghawafaabbass/Hyrex/blob/main/screenshots/06%20Candidate%20My%20Applications.PNG)
 
 ### Candidate — Browse Jobs
 
-[![Candidate Browse Jobs](https://github.com/Aghawafaabbass/Hyrex/raw/main/screenshots/07_Candidate_Browse_Jobs.PNG)](/Aghawafaabbass/Hyrex/blob/main/screenshots/07_Candidate_Browse_Jobs.PNG)
+[![Candidate Browse Jobs](https://github.com/Aghawafaabbass/Hyrex/raw/main/screenshots/07%20Candidate%20Browse%20Jobs.PNG)](/Aghawafaabbass/Hyrex/blob/main/screenshots/07%20Candidate%20Browse%20Jobs.PNG)
 
 ### Candidate — Applied Successfully
 
-[![Applied Now](https://github.com/Aghawafaabbass/Hyrex/raw/main/screenshots/08_Candidate_jobs_Applied_Now.PNG)](/Aghawafaabbass/Hyrex/blob/main/screenshots/08_Candidate_jobs_Applied_Now.PNG)
+[![Applied Now](https://github.com/Aghawafaabbass/Hyrex/raw/main/screenshots/08%20Candidate%20jobs%20Applied%20Now.PNG)](/Aghawafaabbass/Hyrex/blob/main/screenshots/08%20Candidate%20jobs%20Applied%20Now.PNG)
 
 ### Django Administration Panel
 
-[![Admin Panel](https://github.com/Aghawafaabbass/Hyrex/raw/main/screenshots/09_Django_Administration.PNG)](/Aghawafaabbass/Hyrex/blob/main/screenshots/09_Django_Administration.PNG)
+[![Admin Panel](https://github.com/Aghawafaabbass/Hyrex/raw/main/screenshots/09%20Django%20Administration.PNG)](/Aghawafaabbass/Hyrex/blob/main/screenshots/09%20Django%20Administration.PNG)
 
 ---
 
@@ -467,15 +467,15 @@ Hyrex/
 ├── .gitignore
 ├── README.md
 ├── screenshots/
-│   ├── 01_Login_Page.PNG
-│   ├── 02_register.PNG
-│   ├── 03_Recruiter_Dashboard.PNG
-│   ├── 04_Recruiter_Browse_Jobs.PNG
-│   ├── 05_Candidate_Login.PNG
-│   ├── 06_Candidate_My_Applications.PNG
-│   ├── 07_Candidate_Browse_Jobs.PNG
-│   ├── 08_Candidate_jobs_Applied_Now.PNG
-│   └── 09_Django_Administration.PNG
+│   ├── 01 Login Page.PNG
+│   ├── 02 register.PNG
+│   ├── 03 Recruiter Dashboard.PNG
+│   ├── 04 Recruiter Browse Jobs.PNG
+│   ├── 05 Candidate Login.PNG
+│   ├── 06 Candidate My Applications.PNG
+│   ├── 07 Candidate Browse Jobs.PNG
+│   ├── 08 Candidate jobs Applied Now.PNG
+│   └── 09 Django Administration.PNG
 ├── .github/
 │   └── workflows/
 │       └── ci.yml
